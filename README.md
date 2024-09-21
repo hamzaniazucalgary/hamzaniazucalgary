@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hamzaniazucalgary
-- 👀 I’m interested in AI, Machine Learning and Cyber Security
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m Hamza Niaz
+- 👀 I’m interested in Data Science, ML and WebDev
+- 🌱 I’m currently learning WebDev
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me hamzaniaz.pk@gmail.com
 
